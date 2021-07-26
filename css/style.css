@@ -292,16 +292,16 @@ p {
         align-items: center;
     }
     .player {
-        width: 400px;
+        width: 380px;
         height: 500px;
     }
     .players .player .player-picture img {
-        width: 380px;
+        width: 350px;
         height: 300px;
     }
     .player-title,
     .player-bio {
-        width: 380px;
+        width: 350px;
     }
     .player-title {
         font-size: 30px;
